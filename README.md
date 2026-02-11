@@ -30,3 +30,8 @@ Install the following libraries via PlatformIO Library Manager or Arduino Librar
 - **Microcontroller**: Arduino UNO R4
 - **Display**: SSD1306 OLED Display (128x64 pixels)
 - **Communication Protocol**: I2C
+
+## Author
+Project Author:
+- **Email**: sharmakarpraveeb@gmail.com
+- **Name**: Praveen Kumar Sharma
